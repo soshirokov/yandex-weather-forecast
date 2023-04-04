@@ -1,3 +1,3 @@
-const weatherAPI = 'https://api.weather.yandex.ru/v2/informers'
+const weatherAPI = 'https://api.weather.yandex.ru/v2/forecast'
 
 export default { weatherAPI }
